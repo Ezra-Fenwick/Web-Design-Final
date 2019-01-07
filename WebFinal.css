@@ -1,11 +1,11 @@
 h1 {
     color: rgb(70,0,0);
-    font-family: "Times New Roman",serif; 
+    font-family: "Arial Black","sans-serif"; 
 }
 body {
     background: rgb(100,100,100);
 }
 p {
     color: rgb(0,0,0);
-    font-family: "Times New Roman",serif; 
+    font-family: Arial,"sans-serif"; 
 }
