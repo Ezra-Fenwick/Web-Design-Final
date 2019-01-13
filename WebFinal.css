@@ -12,3 +12,5 @@ p {
     width: 500px;
     text-indent: 30px;
 }
+td {
+    vertical-align: top;
