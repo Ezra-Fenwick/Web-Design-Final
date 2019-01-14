@@ -24,3 +24,7 @@ td {
 table {
     border-width: 0px;
 }
+a {
+     color: rgb(100,0,0);
+    text decoration: none;
+}
