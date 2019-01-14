@@ -15,3 +15,6 @@ p {
 td {
     vertical-align: top;
 }
+table {
+    border-width: 0px;
+}
