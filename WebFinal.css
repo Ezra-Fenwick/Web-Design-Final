@@ -30,6 +30,6 @@ a:link,a:visited {
 }
 a:hover,a:active {
     color: rgb(100,0,0);
-    text-decoration: none;
+    text-decoration: underline;
 }
     
