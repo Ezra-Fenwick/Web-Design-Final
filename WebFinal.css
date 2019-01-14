@@ -12,6 +12,12 @@ p {
     width: 400px;
     text-indent: 30px;
 }
+dl,ul,ol {
+    color: rgb(0,0,0);
+    font-family: Helvetica,"sans-serif"; 
+    line-height: 0.9;
+    width: 400px;
+}
 td {
     vertical-align: top;
 }
